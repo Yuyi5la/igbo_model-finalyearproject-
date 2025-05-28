@@ -35,8 +35,6 @@ This repository contains the code and resources for a language model developed a
 
 2. **Install dependencies:**
 
-   (Assuming Python; create a virtual environment for best practice)
-
    ```bash
    pip install -r requirements.txt
    ```
@@ -53,15 +51,12 @@ This repository contains the code and resources for a language model developed a
 
 * Python
 * Jupyter Notebook
-* TensorFlow / PyTorch (adjust depending on your framework)
+* TensorFlow 
 * pandas
 * NumPy
 * scikit-learn
-* NLP libraries (e.g., Hugging Face Transformers, NLTK)
 
-## 📊 Results
 
-Include a brief summary of the results, e.g., model accuracy, loss metrics, or example predictions.
 
 ## 🤝 Contributions
 
